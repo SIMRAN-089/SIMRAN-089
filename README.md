@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Singh</h1>
-<h3 align="center">Bringing ideas to life with code -AI +Web from India</h3>
+<h3 align="center">Bringing ideas to life with code -AI +Web </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran-089&label=Profile%20views&color=0e75b6&style=flat" alt="simran-089" /> </p>
 
